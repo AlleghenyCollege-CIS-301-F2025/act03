@@ -3,7 +3,9 @@
 CS301 Fall 2025: Activity 03
 
 **Name**: Add Your Name Here
+
 **Date**: Add Date Here  
+
 **Due**: End of class session
 ---
 
